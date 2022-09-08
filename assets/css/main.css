@@ -1,0 +1,60 @@
+.container-fluid {
+  padding-top: 40px;
+}
+
+.main-box {
+  height: 600px;
+  width: 1400px;
+  border-style: solid;
+  border-color: blue;
+  padding: 40px 40px 40px 40px;
+  margin: auto;
+}
+
+.title-box {
+  height: 40px;
+  width: 300px;
+  border-style: solid;
+  margin: auto;
+  padding: 5px 5px 5px 5px;
+}
+
+.title {
+  color: blue;
+  text-align: center;
+  font-weight: 800;
+}
+
+.card-row {
+  margin: 40px 10px 10px 10px;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+.card {
+  height: 200px;
+  width: 300px;
+  padding: 10px 10px;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-body {
+  display: flex;
+}
+
+.img-fluid {
+  height: 120px;
+  width: 120px;
+  background-color: #00ff2f;
+}
+
+.card-text {
+  padding: 0px;
+  margin: 0px 0px 0px 15px;
+  text-align: center;
+}
